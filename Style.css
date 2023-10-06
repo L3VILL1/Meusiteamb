@@ -1,0 +1,17 @@
+#PG{
+    text-align: center;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    font-size: 15mm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-size: cover;
+    background-image:url(Wallpaper2.jpg)
+}
+ul{
+    list-style: none;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15mm;
+}
